@@ -1,0 +1,45 @@
+* { margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+
+}
+
+body {background-color: antiquewhite;
+    
+}
+
+.box{
+     width: 1200px;
+     height: 120px;
+     padding: 20px;
+     margin: 100px auto;
+     box-shadow: 0px 0px 15px 2px grey;
+     background-size: cover;
+
+}    
+
+h1 {
+     font-size: 50px;
+     font-family: 'Shadows Into Light', cursive;
+     position: relative;
+     left:20%;
+     
+} 
+ 
+h2 {
+     font-size: 26px;
+     font-family: 'Shadows Into Light', cursive;
+     position: relative;
+     left:40%;
+     
+}
+
+p {
+     font-size: 20px;
+     font-family: 'Caveat', cursive;
+     
+}
